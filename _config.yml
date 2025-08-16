@@ -13,7 +13,7 @@ title                    : "Hanyu (Zella) Zhao"
 title_separator          : "-"
 name                     : &name "Hanyu (Zella) Zhao"
 description              : &description "Multimodal LLM • Human-Centered AI • AI for Social Impact"
-url                      : "https://therealzella.github.io "
+url                      : "https://therealzella.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "therealzella/therealzella.github.io"
 
